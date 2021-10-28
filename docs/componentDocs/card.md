@@ -2,7 +2,7 @@
 卡片组件
 
 ### 示例
-<j-card imgSrc="/01.webp" summary="这是卡片的描述" />
+<j-card imgSrc="/jcardUI/01.webp" summary="这是卡片的描述" />
 
 ### 代码
 ```html
